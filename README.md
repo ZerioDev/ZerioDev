@@ -1,6 +1,6 @@
 ### Zerio 🎨
 
-Hi there! I'm a very young French developer who loves JS !
+Hi there ! I'm a very young French developer who loves JS !
 
 - 🔭 I’m currently working on ...
 
