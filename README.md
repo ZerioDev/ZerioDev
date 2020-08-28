@@ -11,4 +11,4 @@ A module to add effects to your pretty photos.
 
 You can contact me by Discord : `!Zerio.js#2020`.
 
-And as idon't know what to say at the moment, i will update this page over time !
+And as i don't know what to say at the moment, i will update this page over time !
