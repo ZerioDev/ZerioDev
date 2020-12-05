@@ -4,25 +4,18 @@ Hi there ! I'm a very young French developer who loves JS !
 
 - 🔭 I’m currently working on ...
 
-A module to add effects to your pretty photos.
+A module to facilitate the use of PostgreSQL.
+A module to add effects to your pretty pictures.
 
-- 🏆 My latest project ...
+- 🏆 My most famous project ...
 
-Let me introduce URL-song-utilities !
+A music Discord bot !
 
-A module to get information about music titles and even be able to download them !
+A simple template to be able to create your own music bot.
+With all the necessary functions, frequently updated.
 
-Get information about a music.
-Many music services available.
-Download even your favorite music.
-Get the lyrics to your favorite music.
-And other useful features to discover.
+Visit the project right [here](https://github.com/ZerioDev/Music-bot).
 
-Find the NPM page of the module by just clicking [here](https://www.npmjs.com/package/url-song-utilities).
-You can contribute to the development of the module : [github project](https://github.com/URL-song-utilities).
+- 🏓 Need help on one of my projects ?
 
-- 🏓 Support & help ...
-
-You can contact me by Discord : `!Zerio.js#1184`.
-
-And as i don't know what to say at the moment, i will update this page over time !
+Join the support server by clicking [here](https://discord.gg/5cGSYV8ZZj).
