@@ -2,10 +2,16 @@
 
 Hi there ! I'm a very young French developer who loves JS !
 
+- ❤️ Support me
+
+All my donations will be used to finance my projects.
+Make a donation on [PayPal](https://www.paypal.me/ZerioPvP), or [Buy me a coffe](https://www.buymeacoffee.com/zerio).
+
 - 🔭 I’m currently working on ...
 
-A module to facilitate the use of PostgreSQL.
-A module to add effects to your pretty pictures.
+Many small modules.
+A multifunctional bot with a dashboard.
+And some other projects...
 
 - 🏆 My most famous project ...
 
