@@ -1,23 +1,12 @@
-### Zerio 🎨
-Hi there ! 
+### Zerio on GitHub
+- 🏓 Javascript developer since 4 years
+- 🦙 Currently working on many projects 
+- 🏅 Owner of [Zerio Playground](https://discord.com/invite/5cGSYV8ZZj) and [Revolt Developers](https://app.revolt.chat/invite/01FR313VHH99P0V55H0ES0K7RM)
+---
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZerioDev&count_private=true&show_icons=true?theme=buefy&theme=dark"/>
 
-I'm a very young French developer who loves JS !
+You can make a donation on [PayPal](https://www.paypal.com/paypalme/ZerioPvP).
 
-Having started developing a few years ago, I have been able to acquire a lot of knowledge.
-
-Unfortunately, I'm not too active on my GitHub anymore, I deleted many projects and the active ones are not updated anymore.
-I have to advance in my studies, that's why I put all this little world aside for the moment.
-I will come back active in a while no worries.
-
-My discord server is currently still active, and maintained by a great community that continues to grow.
-
-Support me ❤️
-
-All my donations will be used to finance my projects.
-Make a donation on [PayPal](https://www.paypal.me/ZerioPvP).
+Money collected will be used to support my next projects.
 
 Don't forget to send me a proof of your donation, to get a special role on the Discord server.
-
-Need help ? 🐛
-
-Join the 'best' support server by clicking [here](https://discord.gg/5cGSYV8ZZj).
